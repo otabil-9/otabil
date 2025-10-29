@@ -12,22 +12,6 @@
 
 <h2 align="left">My Stack</h2>
 
-###
-
-<div align="center">
-  <img src="<h1 align="center">Hi, 👋 I'm Otabil</h1>
-
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">I am a Business Intelligence Analyst and Database Administrator passionate about transforming raw data into insights that drive smarter business decisions. <br><br>Skilled in Microsoft Excel, Power BI, and SQL, I design interactive dashboards, build efficient databases, and ensure data accuracy to support strategic planning and operational efficiency.<br><br>I enjoy solving problems with data, improving processes, and helping organizations make informed, data-driven decisions that lead to real growth and impact.</p>
-
-###
-
-<h2 align="left">My Stack</h2>
 
 ###
 
